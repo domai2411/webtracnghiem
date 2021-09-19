@@ -1,0 +1,5 @@
+[15-Nov-2017 10:31:10 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/mthouse/public_html/configs/connect.php on line 6
+[15-Nov-2017 10:37:33 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/mthouse/public_html/configs/connect.php on line 6
+[15-Nov-2017 10:38:04 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/mthouse/public_html/configs/connect.php on line 6
+[15-Nov-2017 10:42:39 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/mthouse/public_html/configs/connect.php on line 6
+[15-Nov-2017 11:33:34 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/mthouse/public_html/configs/connect.php on line 6

@@ -1,0 +1,34 @@
+#timluongtable{ 
+    width: 95%;
+    border-collapse: collapse;
+	background-color: #ffffff;
+	table-layout: fixed;
+
+}
+#timluongtable th{
+font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+font-size: 1em;
+border: 1.2px solid #000066;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 4px;
+    background-color: #0066CC;
+	color: #FFFFFF;
+}
+#timluongtable td{
+font-family: "Times New Roman", Times, serif;
+font-size: 0.8em;
+border: 1.2px solid #000066;
+word-wrap:break-word;
+}
+#timluongtable a:visited 
+{
+    color: blue;
+}
+#timluongtable tr.alt td {
+height: 40px;
+    color: #000000;
+    background-color: #CCCCFF;
+}
+.footer{height: 18px;width: 100%;background-color: #337ab7;margin: 0px auto;}
+.footer>p{text-align: center;color: #fff;padding: 2px 0px;font-size: 12px;margin: 0px auto;}
